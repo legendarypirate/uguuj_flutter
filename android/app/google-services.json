@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "536553320418",
+    "project_id": "auth-6f3c8",
+    "storage_bucket": "auth-6f3c8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536553320418:android:c548963cb2bb451d3c13bb",
+        "android_client_info": {
+          "package_name": "com.uguuj.uguuj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJFVk2rWm9is6u4Rki0nPjzhuJhU8FQzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
